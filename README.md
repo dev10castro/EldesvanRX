@@ -2,7 +2,7 @@
 
 ## Descripción
 
-EldesvanRX es un proyecto que...
+EldesvanRX es un proyecto que.....
 
 ## Instalación
 
